@@ -1,0 +1,3 @@
+[submodule "kinshasa"]
+	path = kinshasa
+	url = git@github.com:ibaf001/kinshasa.git
